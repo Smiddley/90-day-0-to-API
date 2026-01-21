@@ -1,0 +1,1 @@
+Find the maximum number of consecutive 1s in a binary array.

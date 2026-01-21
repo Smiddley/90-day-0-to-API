@@ -1,0 +1,1 @@
+Given an array, return a new array where each element at index i is the sum of nums[0..i].

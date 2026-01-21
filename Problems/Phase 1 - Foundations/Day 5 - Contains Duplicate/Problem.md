@@ -1,0 +1,1 @@
+Check if an array contains any duplicates.
