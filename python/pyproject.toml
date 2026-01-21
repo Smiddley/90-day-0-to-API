@@ -11,3 +11,29 @@
 # Analogy (Cloud):
 # This is your service manifest — like a Helm chart or Terraform module metadata.
 # Even if it’s mostly empty at first, it establishes structure and intent.
+
+
+
+[project]
+name = "90day-python"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["Problems"]
+python_files = ["*Solution.py"]
+addopts = "-q"
+
+[tool.black]
+line-length = 88
+target-version = ["py311"]
+
+[tool.ruff]
+select = ["E", "F", "I"]
+line-length = 88
+fix = true
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+ignore_missing_imports = true
