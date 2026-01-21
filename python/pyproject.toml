@@ -1,0 +1,13 @@
+# What it is:
+#The modern, canonical configuration file for Python projects.
+# What it replaces (over time):
+# setup.py
+# Tool-specific config files (setup.cfg, .flake8, etc.)
+# Why you want it even early:
+# Central place for tool configuration (formatter, linter, test runner)
+# Future-proof (PEP 517 / 518)
+# Required if you ever package or publish anything
+
+# Analogy (Cloud):
+# This is your service manifest — like a Helm chart or Terraform module metadata.
+# Even if it’s mostly empty at first, it establishes structure and intent.

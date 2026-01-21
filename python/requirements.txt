@@ -1,0 +1,7 @@
+# What it is:
+#   A flat list of runtime and dev dependencies.
+#   Why it still exists alongside pyproject.toml:
+#   Simple
+#   Universally understood
+#   Works cleanly with GitHub Actions
+#   Easy for beginners
