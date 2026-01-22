@@ -5,3 +5,5 @@
 #   Universally understood
 #   Works cleanly with GitHub Actions
 #   Easy for beginners
+
+pytest
