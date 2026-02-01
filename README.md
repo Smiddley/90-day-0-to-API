@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a5759c2 (Update README.md)
 ## This repository is a structured, side-by-side Go and Python learning track designed to take a learner from algorithmic fundamentals to production-ready backend engineering in 90 days.
 
 The core constraints are intentional:
@@ -176,3 +180,10 @@ Possible extensions:
 - Expanding the backend into a full service
 - Integrating CI/CD and infrastructure
 - Deploying to a cloud environment
+<<<<<<< HEAD
+=======
+# 90-day-0-to-API
+Goal: Solve 90 days worth of coding puzzles to learn Python (and Go)
+>>>>>>> 118da01 (Initial commit)
+=======
+>>>>>>> a5759c2 (Update README.md)
