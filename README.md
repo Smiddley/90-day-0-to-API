@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> a5759c2 (Update README.md)
+
 ## This repository is a structured, side-by-side Go and Python learning track designed to take a learner from algorithmic fundamentals to production-ready backend engineering in 90 days.
 
 The core constraints are intentional:
