@@ -1,36 +1,37 @@
-Problem Statement
+### Problem Statement
 
 Given a string s containing only the characters ()[]{}, determine if the input string is valid.
 
 A string is valid if:
+- Open brackets are closed by the same type
 
-Open brackets are closed by the same type
+- Open brackets are closed in the correct order
 
-Open brackets are closed in the correct order
+- Every closing bracket has a corresponding open bracket
 
-Every closing bracket has a corresponding open bracket
-
-Input
+### Input
 
 s: string
 
-Output
+### Output
 
 true or false
 
-Example
+### Example
+```
 Input:  "()[]{}"
 Output: true
 
 Input:  "(]"
 Output: false
+```
 
-Concept
+### Concept
 
 Stack (LIFO)
 
 State tracking
 
-Cloud Analogy
+### Cloud Analogy
 
 Nested configs / firewall rules must unwind in the correct order.
