@@ -14,13 +14,13 @@ A string is valid if:
 s: string
 
 ### Output
-
 true or false
 
 ### Example
 ```
 Input:  "()[]{}"
 Output: true
+
 
 Input:  "(]"
 Output: false
